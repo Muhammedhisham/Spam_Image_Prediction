@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#A{
+    height:695px;
+    background-color:#ADEFD1FF ;
+    padding: 200px;
+}
+#B{
+    background-color:#00203FFF ;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: #ADEFD1FF;
+    padding: 10px;
+    
+}
+#C{
+    padding-bottom: 20px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: #ADEFD1FF;
+}
+button:hover{
+    background-color: white;
+}
